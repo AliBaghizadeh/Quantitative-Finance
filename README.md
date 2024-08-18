@@ -8,6 +8,7 @@ The courses that have significantly influenced my work in this project include:
 Introduction to Portfolio Construction and Analysis with Python (EDHEC Business School) by Vijay Vaidyanathan and Martellini. <br>
 Mathematical Methods for Quantitative Finance (MITx 15.455x) by Paul F. Mende. <br>
 Applied Time Series Analysis in Python (Udemy) by Marco Peixeiro. <br>
+Quantitative Finance & Algorithmic Trading in Python (Udemy) by Holczer Balazs.  <br>
  
 
 ### Hardware and Software
