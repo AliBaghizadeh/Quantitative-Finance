@@ -1,12 +1,13 @@
 # Quantitative_Finance
 
-This is a personal project, my journey towards Quantitative Finance, and I have been fascinated by models and coding in this exciting field of quantitative analysis. My approach is taking courses or reading parts of some books, and trying to produce some of the models in Python. 
+This repository documents my journey into the world of Quantitative Finance, driven by a fascination with models and coding in this exciting field of quantitative analysis. My approach involves taking relevant courses, reading key literature, and implementing some of the models in Python.
 
-The courses I liked and I will try to implement their approaches in this project are as follows:
+Courses
+The courses that have significantly influenced my work in this project include:
 
-1- Introduction to Portfolio Construction and Analysis with Python (EDHEC Business School) by Vijay Vaidyanathan and Martellini. <br>
-2- Mathematical Methods for Quantitative Finance (MITx 15.455x) by Paul F. Mende <br>
-3- Applied Time Series Analysis in Python (Udemy) y Marco Peixeiro <br>
+Introduction to Portfolio Construction and Analysis with Python (EDHEC Business School) by Vijay Vaidyanathan and Martellini.
+Mathematical Methods for Quantitative Finance (MITx 15.455x) by Paul F. Mende.
+Applied Time Series Analysis in Python (Udemy) by Marco Peixeiro.
  
 
 ### Hardware and Software
