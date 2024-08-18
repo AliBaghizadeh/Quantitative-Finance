@@ -23,3 +23,9 @@ I developed the code on a standard laptop using either Jupyter Notebook or Visua
 
 1- ***Time Series Model Generator***:  <br>
 &nbsp;&nbsp;&nbsp; This module includes a TimeSeriesGenerator class designed to generate various time series models such as Monte Carlo paths, Geometric Brownian Motion, Autoregressive, and Moving Average models. It also offers plotting options for visualizing these generated time series processes.<br>
+
+2- ***markowitz_portfolio***:  <br>
+&nbsp;&nbsp;&nbsp; This file is a class to implement the Markowitz Algorithm for constructing a portfolio of different stocks. The stocks are downloaded from Yahoo Finance, and the output shows the optimal portfolio based on parameters like return and risk. Examples of generated Stock_Price and Optimal_Portfolio are given as png images. <br>
+
+
+
