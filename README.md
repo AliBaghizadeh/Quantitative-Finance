@@ -2,6 +2,11 @@
 
 This is a personal project, my journey towards Quantitative Finance, and I have been fascinated by models and coding in this exciting field of quantitative analysis. My approach is taking courses or reading parts of some books, and trying to produce some of the models in Python. 
 
+The courses I liked and I will try to implement their approaches in this project are as follows:
+
+1- Introduction to Portfolio Construction and Analysis with Python (EDHEC Business School) by Vijay Vaidyanathan and Martellini. <br>
+2- Mathematical Methods for Quantitative Finance (MITx 15.455x) by Paul F. Mende <br>
+3- Applied Time Series Analysis in Python (Udemy) y Marco Peixeiro <br>
  
 
 ### Hardware and Software
@@ -16,5 +21,4 @@ To accomplish the project, I have used the following packages:<br><be>
 ### Files and Instructions
 
 1- ***Time Series Model Generator***:  <br>
-&nbsp;&nbsp;&nbsp;This file benefits from a TimeSeriesGenerator generator class to generate some time series models like Monte Carlo paths, Geometric Brownian Motion, Autoregressive and Moving Average models plus  plotiing options for generated time series processes. &nbsp;&nbsp;&nbsp;the Keras and in case you need to preserve the structure of the folder of the original images and classes. I recommend having a test dataset 
-&nbsp;&nbsp;&nbsp;as well. <br>
+&nbsp;&nbsp;&nbsp;This file benefits from a TimeSeriesGenerator generator class to generate some time series models like Monte Carlo paths, Geometric Brownian Motion, Autoregressive and Moving Average models plus  plotiing options for generated time series processes.<br>
