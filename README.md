@@ -27,5 +27,6 @@ I developed the code on a standard laptop using either Jupyter Notebook or Visua
 2- ***markowitz_portfolio***:  <br>
 &nbsp;&nbsp;&nbsp; This file is a class to implement the Markowitz Algorithm for constructing a portfolio of different stocks. The stocks are downloaded from Yahoo Finance, and the output shows the optimal portfolio based on parameters like return and risk. Examples of generated Stock_Price and Optimal_Portfolio are given as png images. <br>
 
-
+3- ***option_pricing***:  <br>
+&nbsp;&nbsp;&nbsp; This file is a class to calculate European call-put options using both the Monte Carlo approach as well as pure analytical solutions using the Black-Scholes formula.<br>
 
